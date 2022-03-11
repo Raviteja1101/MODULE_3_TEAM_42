@@ -25,12 +25,8 @@ The main focus of this BiCom is to operate the car's window , alarm , battery an
 ### THREATS:
 
 ## 4W'S and 1H
-### WHO: People those who are having car.
+![4W 1H](https://user-images.githubusercontent.com/98813710/157828803-2be603d9-4cfc-41fd-a1ca-37af3a48a612.png)
 
-### WHAT: BiCom System is a car/vehicles Remote keyless entry (RKE) system.
 
-### WHEN: When ever the user/owner approaches the car, door will open without pressing unlock button in the key.
 
-### WHERE: Can use this feature anywhere near the car.
 
-### HOW: By pressing the button.

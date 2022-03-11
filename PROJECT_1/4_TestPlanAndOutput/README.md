@@ -1,4 +1,4 @@
-
+# Testplan and output
 | ID|Description|Input|Expected O/P|Actual O/P|Status|
 |-----|---------|----------|-----------|---------|------|
 |TC_1|Lock function|User needs to press the button 1 time| Locked |Locked 

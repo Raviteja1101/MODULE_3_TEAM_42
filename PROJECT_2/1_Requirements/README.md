@@ -21,7 +21,7 @@ The main focus of this BiCom is to operate the car's window , alarm , battery an
 LLR_3|To displaying car battery info status, user need to press the button three time|
 |LLR_4|To displaying Door status, user need to press the button four time|
 
-## SWOT ANAMYSIS
+## SWOT ANALYSIS
 ### STRENGTH:
 * There is no need of human interaction with car Status with different features is provided. 
 * "Easy usage of features with a user press button which designed user friendly.

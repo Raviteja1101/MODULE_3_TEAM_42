@@ -16,7 +16,10 @@ The main focus of this BiCom is to operate the car's window , alarm , battery an
 ### LOW_LEVEL_REQUIREMENTS
 |ID|Description|
 |-|-|
-|LLR_1|
+|LLR_1|To displaying window status, user need to press the button one time|
+|LLR_2|To displaying alarm status , user need to press the button two time|
+LLR_3|To displaying car battery info status, user need to press the button three time|
+|LLR_4|To displaying Door status, user need to press the button four time|
 
 ## SWOT ANAMYSIS
 ### STRENGTH:

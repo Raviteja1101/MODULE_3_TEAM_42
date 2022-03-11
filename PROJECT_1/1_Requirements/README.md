@@ -7,21 +7,30 @@ The RKE as the Remote keyless Entry,It is a system designed to remotely lock or 
 |ID|Description|
 |-|-|
 |HLR_1|Power Conservation, battery life is so important in an RKE system|
-|
+|HLR_2| It shall lock and Unlock the dores|
+|HLR_3|If the alarm can activation/deactivation It shall approach light|
 
 ### LOW_LEVEL_REQUIREMENTS
 |ID|Description|
 |-|-|
-|LLR_1|
+|LLR_1|For doing lock and unlock we need to press blue switch 1 time for Lock and press 2 times to unlock|
+|LLR_2|To activation/deactivation alarm  operation we needs to press the blue switch 3 times|
+|LLR_3|We need to operate at the range up to 80 feet |
 
 ## SWOT ANAMYSIS
 ### STRENGTH:
-
+* Security and convenience
+* Automatic Locking
+* Easy to operate, designed user friendly.
+* Better accesss control.
 ### WEAKNESS:
-
+* Chances of theft
+* Cost of Replacement is high than compared to traditional key.
 ### OPPORTUNITIES:
-
+* Save Time and Money from Re-keying.
+* We can lock/Unlock the car by pressing one button.
 ### THREATS:
+* Chances of theft, thieves can hack the program.
 
 ## 4W'S and 1H
 ### WHO
@@ -34,4 +43,5 @@ The RKE as the Remote keyless Entry,It is a system designed to remotely lock or 
 ### WHERE:
 * It is used to control entry to premises and specific areas of buildings, such as garages parking lots etc
 ### HOW:
-* usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car
+* usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car.
+* The actions are usually performed by pressing a button on a physical fob.

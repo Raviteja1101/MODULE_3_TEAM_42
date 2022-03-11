@@ -1,7 +1,7 @@
 
 ## Folder Structure:
-|Folder|Description|
-|------|-----------|
+|Folder|Description|Contributers/Workdone|
+|------|-----------|-----------------|
 |**1_Requirements**| |
 |**2_Architecture**| |
 |**3_Implementation**| |

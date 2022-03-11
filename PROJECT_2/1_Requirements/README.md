@@ -17,7 +17,9 @@ The main focus of this BiCom is to operate the car's window , alarm , battery an
 
 ## SWOT ANAMYSIS
 ### STRENGTH:
-* There is no need of human interaction with car Status with different features is provided. "Easy usage of features with a user press button which designed user friendly.
+* There is no need of human interaction with car Status with different features is provided. 
+* "Easy usage of features with a user press button which designed user friendly.
+* Security and convenience
 
 ### WEAKNESS:
 * We can operate within limited Range.
@@ -26,6 +28,7 @@ The main focus of this BiCom is to operate the car's window , alarm , battery an
 ### OPPORTUNITIES:
 * There will be a wide scope in field of automobiles Cost Efficient Car features are tremendous which increases car value.
 ### THREATS:
+* Chances of theft, thieves can hack the program.
 
 ## 4W'S and 1H
 ![4W 1H](https://user-images.githubusercontent.com/98813710/157828803-2be603d9-4cfc-41fd-a1ca-37af3a48a612.png)

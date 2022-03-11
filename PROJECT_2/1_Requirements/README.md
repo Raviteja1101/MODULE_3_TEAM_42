@@ -24,8 +24,8 @@ LLR_3|To displaying car battery info status, user need to press the button three
 ## SWOT ANALYSIS
 ### STRENGTH:
 * There is no need of human interaction with car Status with different features is provided. 
-* "Easy usage of features with a user press button which designed user friendly.
-* Security and convenience
+* Easy usage of features with a user press button which designed user friendly.
+* Security and convenience.
 
 ### WEAKNESS:
 * We can operate within limited Range.

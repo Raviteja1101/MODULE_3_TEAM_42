@@ -1,4 +1,4 @@
-# TestPlanAndOutput
+# Testplan and output
 | ID|Description|Input Data|Expected O/P|Actual O/P|Status|
 |-------|------------|-----------|------------|----------|-------|
 |TC_1|Display the window ststus|User need to press the button 1 time|All led on at the same time,its shows the window status|All led on at the same time,it shows the window status|

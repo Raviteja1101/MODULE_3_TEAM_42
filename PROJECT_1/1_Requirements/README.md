@@ -33,6 +33,7 @@ The RKE as the Remote keyless Entry,It is a system designed to remotely lock or 
 * We can lock/Unlock the car by pressing one button.
 ### THREATS:
 * Chances of theft, thieves can hack the program.
+* No long life
 
 ## 4W'S and 1H
 ### WHO

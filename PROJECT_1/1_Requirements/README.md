@@ -6,7 +6,8 @@ The RKE as the Remote keyless Entry,It is a system designed to remotely lock or 
 ### HIGH_LEVEL_REQUIREMENTS
 |ID|Description|
 |-|-|
-|HLR_1|
+|HLR_1|Power Conservation, battery life is so important in an RKE system|
+|
 
 ### LOW_LEVEL_REQUIREMENTS
 |ID|Description|
@@ -24,11 +25,13 @@ The RKE as the Remote keyless Entry,It is a system designed to remotely lock or 
 
 ## 4W'S and 1H
 ### WHO
-
+* Those who have RKE system in there vericles.
 ### WHAT:
-
+* Remote Keyless entry(RKE) systems are used to remotely lock, unlock  your car's  using RF signals.
+* This RKE System will help us to lock the vehicle and unlock the vehicle remotly when needed . we can control the car from a distance. More security and easy to use.
 ### WHEN:
-
+* If the fob is in range, it's then triggered to respond to the car.
 ### WHERE:
-
+* It is used to control entry to premises and specific areas of buildings, such as garages parking lots etc
 ### HOW:
+* usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car

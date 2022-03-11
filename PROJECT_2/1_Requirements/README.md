@@ -8,7 +8,10 @@ The main focus of this BiCom is to operate the car's window , alarm , battery an
 ### HIGH_LEVEL_REQUIREMENTS
 |ID|Description|
 |-|-|
-|HLR_1|
+|HLR_1|It need to display all window status|
+|HLR_2|It need to dispaly alarm ststus|
+|HLR_3|It need to display car battery info ststus|
+|HLR_4|It need to display Door status|
 
 ### LOW_LEVEL_REQUIREMENTS
 |ID|Description|

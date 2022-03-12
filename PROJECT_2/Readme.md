@@ -1,11 +1,11 @@
 
 ## Folder Structure:
-|Folder|Description|Contributers/Workdone|
-|------|-----------|-------------|
-|**1_Requirements**| |
-|**2_Architecture**| |
-|**3_Implementation**| |
-|**4_TestPlanAndOutput**| |
-|**5_Report**| |
-|**6_ImagesAndVideos**| |
-|**7_Other**| |
+|Folder|Contributers/Workdone|
+|------|-------------|
+|**1_Requirements**|Shubhammugali and Raviteja |
+|**2_Architecture**|SriramYaswanth,Chaitanya |
+|**3_Implementation**| Raviteja,Shubhammugali,SriramYaswanth|
+|**4_TestPlanAndOutput**|Shubhammugali |
+|**5_Report**|Raviteja |
+|**6_ImagesAndVideos**|SriramYaswanth |
+|**7_Other**| Chaitanya|

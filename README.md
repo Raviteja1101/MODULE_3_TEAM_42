@@ -7,3 +7,9 @@
 |2.|Sriram Yaswanth|99007752|
 |3.|Shubham Mugali|99007753|
 |4.|Raviteja Tirumalasetty|99007754|
+
+# Folder Structure:
+|Folder|Description|
+|-------|----------|
+|PROJECT_1|Remote Keyless Entry(RKE)|
+|PROJECT_2|BiCom System|

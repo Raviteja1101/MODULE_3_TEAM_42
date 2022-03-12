@@ -11,5 +11,5 @@
 # Folder Structure:
 |Folder|Description|
 |-------|----------|
-|PROJECT_1|Remote Keyless Entry(RKE)|
-|PROJECT_2|BiCom System|
+|[PROJECT_1](https://github.com/Shubhammugali/MODULE_3_TEAM_42/tree/main/PROJECT_1)|Remote Keyless Entry(RKE)|
+|[PROJECT_2](https://github.com/Shubhammugali/MODULE_3_TEAM_42/tree/main/PROJECT_2)|BiCom System|
